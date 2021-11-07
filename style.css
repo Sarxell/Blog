@@ -5,7 +5,7 @@
 }
 
 .header {
-    min-height: 100vh;
+    min-height: 50vh;
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.4), rgba(4,9,30,0.4)), url(./images/quagsire.png);
     background-position: center;
