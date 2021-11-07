@@ -5,7 +5,7 @@
 }
 
 .header {
-    min-height: 50vh;
+    min-height: 70vh;
     width: 100%;
     background-image: linear-gradient(rgba(4,9,30,0.1), rgba(4,9,30,0.1)), url(./images/atlascar2b.png);
     background-position: center;
