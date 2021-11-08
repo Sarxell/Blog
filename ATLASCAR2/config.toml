@@ -1,0 +1,5 @@
+baseURL = "https://sarxell.github.io/Thesis.github.io/"
+languageCode = "en-us"
+title = "Masters' Thesis"
+
+theme="ananke"

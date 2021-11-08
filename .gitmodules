@@ -1,0 +1,7 @@
+[submodule "ATLASCAR2/themes/ananke"]
+	path = ATLASCAR2/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "ATLASCAR2/public"]
+	path = ATLASCAR2/public
+	url = https://github.com/Sarxell/Thesis.github.io.git
+	branch = main
