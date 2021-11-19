@@ -8,7 +8,7 @@ understand the electric connections of the car, which were very mangled and hard
 
 Here's a picture to exemplify the state of the car:
 
-![https://sarxell.github.io/Thesis.github.io/ mangled_cables](/static/pictures/mangled_cables.jpg)
+![https://sarxell.github.io/Thesis.github.io/ mangled_cables](/home/sarxell/Desktop/Blog/ATLASCAR2/static/pictures/mangled_cables.jpg)
 
 <img class="special-img-class" src="/static/pictures/arranged_cables.jpg" />
 
