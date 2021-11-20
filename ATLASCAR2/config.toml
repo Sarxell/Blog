@@ -1,7 +1,19 @@
 baseURL = "https://sarxell.github.io/Thesis.github.io/"
 languageCode = "en-us"
 title = "Masters' Thesis"
-
-canonifyURLs = true
-
 theme="ananke"
+canonifyURLs = true
+hardWraps = true
+
+SectionPagesMenu = "main"
+Paginate = 3
+
+[params]
+  author = "Sara Pombinho"
+  site_logo = ""
+  description = "My journey in the project 'Arquitetura integrada no ATLASCAR2' "
+
+extensions = [
+  "laxHtmlBlocks", # laxer block handling... let's see what this does?
+  "hardLineBreak", # newlines result in line breaks
+]

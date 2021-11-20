@@ -5,21 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8fd560e8-ced8-4992-bc46-4e87b4a29c6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/arranged_cables2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/atlascar2b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/mangled_cables.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/about/_index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/shortcodes/image-resize.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content/post/Week1.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/Week1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public" beforeDir="false" afterPath="$PROJECT_DIR$/public" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/post/week1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/week1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/pictures/arranged_cables.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/arranged_cables.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/pictures/arranged_cables2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/arranged_cables2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/pictures/atlascar2b.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/atlascar2b.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/pictures/mangled_cables.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/mangled_cables.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -34,9 +43,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/content/post" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/content" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">

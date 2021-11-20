@@ -8,14 +8,16 @@ understand the electric connections of the car, which were very mangled and hard
 
 Here's a picture to exemplify the state of the car:
 
-{{<figure src="/mangled_cables.jpg" width=100 alt="mangled_cables">}}
+{{<figure src="/mangled_cables.jpg" alt="mangled_cables" >}}
+
 
 After some time in that jungle of wires, I made my way to the end. The final result could be better ( if the camera inside 
 the car isn't being used, it could make things more clear taking it off) but it's nt bad 
 for the first time arranging the car.
 
-{{<figure src="/arranged_cables.jpg" width=100 alt="arranged_cables">}}
-{{<figure src="/arranged_cables2.jpg" width=100 alt="arranged_cables2">}}
+
+{{<figure src="/arranged_cables.jpg"  height=170 alt="arranged_cables" class="fl">}} 
+{{<figure src="/arranged_cables2.jpg" height=170 alt="arranged_cables2" class="fl">}}
 
 
 
