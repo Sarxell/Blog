@@ -11,9 +11,7 @@ Here's a picture to exemplify the state of the car:
 {{<figure src="/mangled_cables.jpg" alt="mangled_cables" >}}
 
 
-After some time in that jungle of wires, I made my way to the end. The final result could be better ( if the camera inside 
-the car isn't being used, it could make things more clear taking it off) but it's nt bad 
-for the first time arranging the car.
+After some time in that jungle of wires, I made my way to the end. With time, the final result can be even better.
 
 
 {{<figure src="/arranged_cables.jpg"  height=170 alt="arranged_cables" class="fl">}} 

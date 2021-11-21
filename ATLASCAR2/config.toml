@@ -1,6 +1,6 @@
 baseURL = "https://sarxell.github.io/Thesis.github.io/"
 languageCode = "en-us"
-title = "Masters' thesis"
+title = "My thesis"
 theme="ananke"
 canonifyURLs = true
 hardWraps = true
