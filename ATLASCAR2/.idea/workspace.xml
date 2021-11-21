@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8fd560e8-ced8-4992-bc46-4e87b4a29c6b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/content/about/_index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/layouts/shortcodes/image-resize.html" afterDir="false" />
+    <list default="true" id="8fd560e8-ced8-4992-bc46-4e87b4a29c6b" name="Changes" comment="photos">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/content/post/Week1.md" beforeDir="false" afterPath="$PROJECT_DIR$/content/post/Week1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public" beforeDir="false" afterPath="$PROJECT_DIR$/public" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/post/week1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/post/week1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/tags/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/catkin_ws/src/PSR" />
   </component>
   <component name="ProjectId" id="2173ctin53dxXa1EbQu9aeg1cck" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -66,6 +55,35 @@
       <option name="presentableId" value="Default" />
       <updated>1637278380750</updated>
     </task>
+    <task id="LOCAL-00001" summary="photos">
+      <created>1637427723918</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637427723918</updated>
+    </task>
+    <task id="LOCAL-00002" summary="photos">
+      <created>1637427755176</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637427755176</updated>
+    </task>
+    <task id="LOCAL-00003" summary="photos">
+      <created>1637427882800</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637427882800</updated>
+    </task>
+    <task id="LOCAL-00004" summary="photos">
+      <created>1637427951909</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637427951909</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,5 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="photos" />
+    <option name="LAST_COMMIT_MESSAGE" value="photos" />
   </component>
 </project>
