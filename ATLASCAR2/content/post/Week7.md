@@ -1,7 +1,6 @@
 ---
 title: "Week7"
 date: 2021-12-11T17:56:41Z
-draft: false
 ---
 
 
