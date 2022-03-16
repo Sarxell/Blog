@@ -9,6 +9,6 @@ improvements but the topics are there as well as most of the information needed.
 
 So, in week 22 the real work began, after retesting all the sensors and improving some points like the camera resolution 
 and frame rate, we need to do the same in the atlascar server. For that, the new ubuntu, 20.04, is going to be implemented
-on the car, so the partitions for the data, home etc need to be created.
+on the car, so the partitions for the data, home etc need to be created to maintain an organized system.
 
 ... more details about the partitions will be added after this work being completed.
